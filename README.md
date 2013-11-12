@@ -1,4 +1,4 @@
-albany_brew_crafters
+albany Brew Crafters
 ====================
 
-Documents for Albany Brew Crafters
+Dustin's documents for Albany Brew Crafters
